@@ -1,0 +1,17 @@
+This app read user name + mail, and interests from excel file (or any other form ?) and send to the mail news feed
+according to his interests every morning.
+objects:
+Excel:
+    filepath
+    getdata()
+
+Mail:
+    sender
+    reciever
+    subject
+    body
+    send()
+
+NewsFeed:
+    data
+    get()
