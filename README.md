@@ -1,2 +1,3 @@
 # AutoNewzzzFeed
-Get daily news feed about your interests
+Get and spread daily news feed about your interests!
+
